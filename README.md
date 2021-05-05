@@ -10,7 +10,7 @@ Contact: ryanshiva2@gmail.com
 
 ## Version
 Inventory Management System 1.01
-Released 12/2/2019
+Released 10/7/2020
 
 ## Development Tools
 IntelliJ IDEA Community Edition 2020.3.0
