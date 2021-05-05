@@ -9,10 +9,10 @@ Ryan Shiva
 Contact: ryanshiva2@gmail.com
 
 ## Version
-Inventory Management System 1.01
+Inventory Management System 1.01  
 Released 10/7/2020
 
 ## Development Tools
-IntelliJ IDEA Community Edition 2020.3.0
-Java SE Development Kit 11.0.8
+IntelliJ IDEA Community Edition 2020.3.0  
+Java SE Development Kit 11.0.8  
 JavaFX-SDK-11.0.2
